@@ -1,4 +1,4 @@
-# California-Housing-Price---Capstone-Project-Module-3
+# California Housing Price (Capstone Project Module 3 Purwadhika)
 A machine learning project using 1990s California housing data to predict median house values. Built for educational purposes, this project demonstrates end-to-end regression modeling, feature engineering, and evaluation to support real estate and urban planning insights.
 
 ## Business Problem Understanding
